@@ -14,7 +14,7 @@ const RightSidebar = () => {
           />
           <label
             htmlFor="searchBox"
-            className="absolute top-0 left-0 h-full flex items-center justify-center text-gray-500 p-4 peer-focus:text-primary"
+            className="absolute top-0 left-0 h-full flex items-center justify-center text-gray-500 p-4"
           >
             <BsSearch />
           </label>
